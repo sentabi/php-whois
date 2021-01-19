@@ -23,3 +23,6 @@ if ($domain->isAvailable()) {
 }
 
 ```
+
+## Authors
+Original Author : David Rivera [regru/php-whois](https://github.com/regru/php-whois)
